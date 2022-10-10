@@ -7,3 +7,4 @@ flask-jwt-extended
 # For hashing passwords
 passlib
 flask-migrate
+gunicorn
